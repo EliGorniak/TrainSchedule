@@ -1,0 +1,32 @@
+body {
+    background-image: url(/images/landscape4.jpeg);
+    background-size: cover;
+    width: 80%;
+    margin: auto;
+}
+.container {
+    font-family: 'News Cycle', sans-serif;
+}
+
+.jumbotron {
+    background-image: url(/images/train.jpg);
+    margin-top: 20px;
+    background-size: cover;
+    color: antiquewhite;
+    height: 250px;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    color: rgb(248, 209, 37);
+    text-shadow: 10px 10px 10px rgb(31, 30, 30);
+    font-size: 80px;
+}
+
+h3 {
+    font-family: 'News Cycle', sans-serif;
+    color: antiquewhite;
+    text-shadow: 10px 10px 10px rgb(24, 23, 23);
+    font-size: 30px;
+    font-weight: bold;
+}
