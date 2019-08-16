@@ -1,5 +1,5 @@
 body {
-    background-image: url(/images/landscape4.jpeg);
+    background-image: url(../images/landscape4.jpeg);
     background-size: cover;
     width: 80%;
     margin: auto;
@@ -9,7 +9,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url(/images/train.jpg);
+    background-image: url(../images/train.jpg);
     margin-top: 20px;
     background-size: cover;
     color: antiquewhite;
